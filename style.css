@@ -1,0 +1,38 @@
+/* Size */
+.box-size {
+  width: 90%;
+  height: 400px;
+  margin: 20px auto;
+}
+
+/* Background */
+.bg-green {
+  background-color: green;
+}
+
+/* Border */
+.border-black {
+  border: 10px solid black;
+}
+.border-dotted {
+  border: 2px dotted black;
+}
+
+/* Padding */
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 20px;
+}
+
+/* Text */
+.text-center {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.inline-block {
+  display: inline-block;
+}
